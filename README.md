@@ -120,8 +120,12 @@ Author: Jane Smith
 #### Key Takeaways:
 
 1 Attributes provide a way to add metadata to your code.
+
 2 Reflection allows you to access and manipulate this metadata at runtime.
+
 3 Custom attributes can be used to add application-specific metadata.
+
 4 Reflection is powerful but can impact performance, so use it judiciously.
+
 
 This example demonstrates the basic principles of using attributes and reflection in C#. You can extend this concept to create more complex and powerful applications.
