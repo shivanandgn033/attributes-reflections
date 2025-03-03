@@ -12,3 +12,4 @@ E:\GitHub Project\dotnetprojects\web\Attributes and Reflection\AttributesandRefl
 E:\GitHub Project\dotnetprojects\web\Attributes and Reflection\AttributesandReflections\obj\Debug\net9.0\AttributesandReflections.pdb
 E:\GitHub Project\dotnetprojects\web\Attributes and Reflection\AttributesandReflections\obj\Debug\net9.0\AttributesandReflections.genruntimeconfig.cache
 E:\GitHub Project\dotnetprojects\web\Attributes and Reflection\AttributesandReflections\obj\Debug\net9.0\ref\AttributesandReflections.dll
+E:\GitHub Project\dotnetprojects\web\Attributes and Reflection\AttributesandReflections\obj\Debug\net9.0\AttributesandReflections.sourcelink.json
