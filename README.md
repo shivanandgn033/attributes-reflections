@@ -101,9 +101,13 @@ public class Program
 ```
 
 1 We use typeof(MyClass) to get the Type object representing MyClass.
+
 2 myType.GetCustomAttributes(typeof(AuthorAttribute), true) retrieves all AuthorAttribute instances applied to MyClass. The true parameter specifies that inherited attributes should also be included (if any).
+
 3 We iterate through the retrieved attributes and display the author's name and version.
+
 4 The code also demonstrates getting attributes from a method.
+
 5 The MethodInfo class is used to get information about methods.
 
 #### Output:
